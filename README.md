@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyiseungyun%2Fhit-counter&count_bg=%239FD774&title_bg=%23C0C0C0&icon=&icon_color=%239A9A9A&title=%E2%98%83%EF%B8%8F+visit+&edge_flat=false"/>
-  </a>
+  <a href="https://hits.sh/github.com/yiseungyun/hits/"><img alt="Hits" src="https://hits.sh/github.com/yiseungyun/hits.svg?style=for-the-badge&label=%EB%93%9C%EB%AE%A4%EB%AF%B8&color=85c576&labelColor=d8d8d8&logo=Iconify"/></a>
   <br/>
   
   <a href="https://github.com/devxb/gitanimals">
